@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "785209149891",
+    "firebase_url": "https://rentroom-35681.firebaseio.com",
+    "project_id": "rentroom-35681",
+    "storage_bucket": "rentroom-35681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785209149891:android:91f71eb3797b79385ed576",
+        "android_client_info": {
+          "package_name": "com.example.rentroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785209149891-qlisegc72g8tcego544ftri12fitouk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentroom",
+            "certificate_hash": "858aea15b3c0bd755629e76534bb9f810d476109"
+          }
+        },
+        {
+          "client_id": "785209149891-4rt3u3efh0c1glqqdesnlmbl7usbo8f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3QmAJVQVMDjKqQNGI0dLYrZDvZgQ9BAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785209149891-4rt3u3efh0c1glqqdesnlmbl7usbo8f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
